@@ -147,6 +147,8 @@ const getMe = async (req, res) => {
   }
 };
 
+const testFunction = () => {};
+
 module.exports = {
   register,
   login,
